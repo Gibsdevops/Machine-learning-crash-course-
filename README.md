@@ -1,2 +1,2 @@
 # Machine-learning-crash-course-
-Machine learning crash course 
+A beginner-friendly repository that introduces the fundamentals of machine learning. This course covers key concepts such as supervised and unsupervised learning, data preprocessing, model training, evaluation, and practical implementation using Python libraries like Scikit-learn, Pandas, and Matplotlib. Ideal for anyone looking to start their journey in machine learning!
